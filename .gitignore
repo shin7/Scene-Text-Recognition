@@ -105,5 +105,7 @@ venv.bak/
 
 .idea/
 
-train.py
-eval.py
+#train.py
+#eval.py
+outputs/
+checkpoints/
